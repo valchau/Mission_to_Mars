@@ -29,10 +29,11 @@ Robin, with our help, is now ready to perform full web-scraping and data analysi
 
 * Plot the results as a bar chart.
      [Average Minimum Daily temperature on Mars Bar Chart](avg_daily_min_temp_barchart.PNG)
-
-Which months have the lowest and the highest atmospheric pressure on Mars? To answer this question:
+     The coldest month is March with a temperature of -83 degrees. 
+     The 'warmest' month is August with a temperature of -68 degrees.
+     
+* Which months have the lowest and the highest atmospheric pressure on Mars? To answer this question:
 Find the average the daily atmospheric pressure of all the months.
-Plot the results as a bar chart.
-About how many terrestrial (Earth) days exist in a Martian year? To answer this question:
-Consider how many days elapse on Earth in the time that Mars circles the Sun once.
-Visually estimate the result by plotting the daily minimum temperature.
+
+* About how many terrestrial (Earth) days exist in a Martian year?
+
