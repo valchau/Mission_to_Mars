@@ -32,8 +32,10 @@ Robin, with our help, is now ready to perform full web-scraping and data analysi
      The coldest month is March with a temperature of -83 degrees. 
      The 'warmest' month is August with a temperature of -68 degrees.
      
-* Which months have the lowest and the highest atmospheric pressure on Mars? To answer this question:
-Find the average the daily atmospheric pressure of all the months.
+* Which months have the lowest and the highest atmospheric pressure on Mars? 
+     June is the month with the lowest pressure
+     September is the month with the highest pressure
 
 * About how many terrestrial (Earth) days exist in a Martian year?
+     In one Martial year, there are nearly Earth 686 days 
 
