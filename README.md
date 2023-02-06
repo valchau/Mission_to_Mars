@@ -25,6 +25,8 @@ Robin, with our help, is now ready to perform full web-scraping and data analysi
 
 * What are the coldest and the warmest months on Mars (at the location of Curiosity)? To answer this question:
 * Find the average the minimum daily temperature for all of the months.
+    [Average Minimum Daily temperature on Mars](avg_daily_min_temp.PNG)
+
 
 * Plot the results as a bar chart.
 
