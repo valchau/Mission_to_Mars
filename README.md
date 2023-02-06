@@ -16,7 +16,6 @@ Robin has now successfully scraped data from a single webpage. But to complete h
 Robin, with our help, is now ready to perform full web-scraping and data analysis project for the mission to Mars. She’s learned to identify HTML elements on a page, identify their id and class attributes, and to use this knowledge to extract information via both automated browsing with Splinter and HTML parsing with Beautiful Soup. She’s also learned to scrape various types of information. These include HTML tables and recurring elements, like multiple news articles on a webpage.
 
 ## Results
-# Questions 
 * How many months exist on Mars?   
       There are 12 months on Mars.
   
