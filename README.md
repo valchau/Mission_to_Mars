@@ -27,8 +27,8 @@ Robin, with our help, is now ready to perform full web-scraping and data analysi
 * Find the average the minimum daily temperature for all of the months.
     [Average Minimum Daily temperature on Mars](avg_daily_min_temp.PNG)
 
-
 * Plot the results as a bar chart.
+     [Average Minimum Daily temperature on Mars Bar Chart](avg_daily_min_temp_barchart.PNG)
 
 Which months have the lowest and the highest atmospheric pressure on Mars? To answer this question:
 Find the average the daily atmospheric pressure of all the months.
